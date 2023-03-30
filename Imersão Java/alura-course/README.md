@@ -1,15 +1,11 @@
-## Imersão Java
+## Imersão Java ♨️
 
-Consumindo microserviços com API
+Transformando uma imagem em sticker
 
-## 💻 IDE utilizada
+## 📋 Desafio dia 2
 
-Intellij
+🔩 Criar diretório de saída das imagens, se ainda não existir.
 
-## 📋 Desafio dia 1
+🔩Centralizar o texto na figurinha.
 
-🔩 Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.
-
-🔩Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!
-
-🔩Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.
+🔩Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes.
